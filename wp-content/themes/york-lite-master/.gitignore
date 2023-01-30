@@ -1,0 +1,12 @@
+*.cache
+_demo/
+_dist/york-lite
+_demo
+*.log
+node_modules
+TODO
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+*.psd
+*.map
